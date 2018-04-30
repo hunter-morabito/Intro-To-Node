@@ -27,3 +27,6 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Events and the EventEmitter class
 * Demo: Returning an EventEmitter from a function
 * Demo: Inheriting from EventEmitter
+* Readable and Writable Streams, the Pipe function
+* Demo: Readable and Writable Streams
+* Demo: Piping Between Streams
