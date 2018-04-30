@@ -30,3 +30,4 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Readable and Writable Streams, the Pipe function
 * Demo: Readable and Writable Streams
 * Demo: Piping Between Streams
+* Conclusion
