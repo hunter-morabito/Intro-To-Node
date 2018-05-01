@@ -31,3 +31,8 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Demo: Readable and Writable Streams
 * Demo: Piping Between Streams
 * Conclusion
+
+### Accessing the Local System
+* Introduction, The Process Object
+* Demo: The Process Object
+* Interacting with the File System
