@@ -39,3 +39,9 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * What is a Buffer?
 * Demo: Buffers
 * The OS Module, Conclusion
+
+### Interacting with the Web
+* Introduction, Making Web Requests in Node
+* Demo: Making Web requests in Node
+* Building a Web Server in Node
+* Demo: Building a Web Server in Node
