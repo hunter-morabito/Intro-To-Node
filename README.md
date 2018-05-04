@@ -36,3 +36,6 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Introduction, The Process Object
 * Demo: The Process Object
 * Interacting with the File System
+* What is a Buffer?
+* Demo: Buffers
+* The OS Module, Conclusion
