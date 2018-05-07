@@ -45,3 +45,6 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Demo: Making Web requests in Node
 * Building a Web Server in Node
 * Demo: Building a Web Server in Node
+* Realtime Interaction with Socket.IO
+* Demo: Socket.IO
+* Conclusion
