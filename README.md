@@ -57,3 +57,12 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Debugging with the Cloud9 IDE
 * Demo: Debugging with the Cloud9 IDE and Chrome
 * Conclusion
+
+### Scaling Your Node Application
+* Introduction, The Child Process Module
+* Demo: The "exec" function
+* Demo: The "spawn" function
+* Demo: The "fork" function
+* Scaling with Node's Cluster Module
+* Demo: Building a Clustered Web Server
+* Conclusion
