@@ -48,3 +48,12 @@ This repo contains resources used in a course offered by Pluralsight named 'Intr
 * Realtime Interaction with Socket.IO
 * Demo: Socket.IO
 * Conclusion
+
+### Testing and Debugging
+* Introduction, The Assert Module
+* Demo: The Assert Module
+* Testing with Mocha and Should.js
+* Demo: Mocha and Should.js
+* Debugging with the Cloud9 IDE
+* Demo: Debugging with the Cloud9 IDE and Chrome
+* Conclusion
